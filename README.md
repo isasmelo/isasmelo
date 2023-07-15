@@ -1,7 +1,14 @@
-<h1>
-    <a href="https://elidianaandrade.github.io/">
-    <span>Isabela Melo</span>
-</h1>
+# Sobre mim
+ Olá! Meu nome é Isabela, tenho 24 anos e sou de Teresina-PI. Sou uma estudante curiosa. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Possuo graduação em andamento em Engenharia Elétrica, mas também tenho e nutro interesse em desenvolvimento de software. Por isso, faço cursos e bootcamps de programação para me atualizar e aperfeiçoar as minhas competências.
+
+## 📚 **Aprendendo**
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-000?style=for-the-badge&logo=javascript&logoColor=ffff00) 
+
 <h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelamelos15@hotmail.com)
