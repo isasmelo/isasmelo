@@ -1,5 +1,5 @@
 # Sobre mim
- Olá! Meu nome é Isabela, tenho 24 anos e sou de Teresina-PI. Sou uma estudante curiosa. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Possuo graduação em andamento em Engenharia Elétrica, mas também tenho e nutro interesse em desenvolvimento de software. Por isso, faço cursos e bootcamps de programação para me atualizar e aperfeiçoar as minhas competências.
+ Olá! Meu nome é Isabela, sou uma estudante curiosa. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Possuo graduação em andamento em Engenharia Elétrica, mas também tenho e nutro interesse em desenvolvimento de software. Por isso, faço cursos e bootcamps de programação para me atualizar e aperfeiçoar as minhas competências.
 
 ## 📚 **Aprendendo**
 
