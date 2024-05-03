@@ -1,13 +1,13 @@
 # Sobre mim
- Olá! Meu nome é Isabela, sou uma estudante curiosa. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Possuo graduação em andamento em Engenharia Elétrica, mas também nutro interesse em programação, vi um pouco de desenvolvimento web, mas meu interesse principal é na área de dados. Por isso, faço cursos e bootcamps para me atualizar e aperfeiçoar as minhas competências.
+ Olá! Meu nome é Isabela, sou uma estudante curiosa. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Possuo graduação em andamento em Engenharia Elétrica, mas também nutro interesse em programação. Vi um pouco de desenvolvimento web, porém meu interesse principal é na área de dados. Por isso, faço cursos e bootcamps para me atualizar e aperfeiçoar as minhas competências.
 
 ## 📚 **Aprendendo**
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-000?style=for-the-badge&logo=javascript&logoColor=ffff00)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3 align="left">Connect with me</h3>
