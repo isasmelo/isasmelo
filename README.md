@@ -1,5 +1,5 @@
 # Sobre mim
- Olá! Meu nome é Isabela, sou uma estudante curiosa. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Possuo graduação em andamento em Engenharia Elétrica, mas também nutro interesse em programação. Vi um pouco de desenvolvimento web, porém meu interesse principal é na área de dados. Por isso, faço cursos e bootcamps para me atualizar e aperfeiçoar as minhas competências.
+Olá! Meu nome é Isabela! Tenho graduação em Engenharia Elétrica, mas ao longo do tempo, desenvolvi um grande interesse por programação e, especialmente, pela área de dados. Embora tenha tido um primeiro contato com o desenvolvimento web, meu foco principal está em explorar e aprofundar meus conhecimentos em dados. Para isso, estou constantemente buscando cursos e bootcamps para me atualizar, aprimorar minhas habilidades e me manter preparada para as demandas dessa área tão dinâmica.
 
 ## 📚 **Aprendendo**
 
